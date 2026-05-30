@@ -92,8 +92,8 @@ Lately I've been working at the intersection of **enterprise systems and AI**: b
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Irwinhrdz&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Irwin's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irwinhrdz&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Irwinhrdz&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" alt="Irwin's GitHub stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Irwinhrdz&layout=compact&theme=default&hide_border=true&cache_seconds=86400" alt="Top languages" height="165" />
 </p>
 
 ---
