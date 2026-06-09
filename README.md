@@ -49,6 +49,7 @@ Lately I've been working at the intersection of **enterprise systems and AI**: b
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-FF6B35?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6Ii8+PC9zdmc+&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -59,6 +60,7 @@ Lately I've been working at the intersection of **enterprise systems and AI**: b
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS Connect](https://img.shields.io/badge/AWS%20Connect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 **Data**
 
@@ -87,7 +89,7 @@ Lately I've been working at the intersection of **enterprise systems and AI**: b
 | **SAP + AI** | MCP server connecting Claude AI to SAP S/4HANA via ABAP REST (PP / MM / QM modules) |
 | **Real Estate Tech** | Launch platforms, property quoters, and AI-powered prospect engagement tools |
 
----
+<!---
 
 ### 📊 GitHub Stats
 
@@ -96,7 +98,7 @@ Lately I've been working at the intersection of **enterprise systems and AI**: b
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Irwinhrdz&layout=compact&theme=default&hide_border=true&cache_seconds=86400" alt="Top languages" height="165" />
 </p>
 
----
+--->
 
 ### 📫 Let's connect
 
