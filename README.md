@@ -18,7 +18,7 @@ I'm a Computer Engineer with **12+ years of experience** designing and leading s
 
 My specialty is the hard part most people avoid: **making different systems talk to each other.** I build the middleware, cloud infrastructure, and integration layers that connect CRMs, payment gateways, ERPs, and marketing pipelines into one coherent flow — mostly for the **LATAM market** (Chile, Colombia, and beyond).
 
-Lately I've been working at the intersection of **enterprise systems and AI**: building MCP servers that let AI agents query real production data from platforms like SAP S/4HANA in natural language.
+Lately I've been working at the intersection of **enterprise systems and AI**: building MCP servers that let AI agents query real production data from platforms like SAP S/4HANA in natural language, leveraging **CDS Views** and **OData APIs** for clean data access. I also build **SAP Fiori** dashboards with **SAPUI5** to deliver modern enterprise UX.
 
 ---
 
@@ -26,6 +26,7 @@ Lately I've been working at the intersection of **enterprise systems and AI**: b
 
 - 🏢 **Real estate platforms** — property launch sites, quoters, and payment flows for the Chilean market (Onekeybroker, LUP)
 - 🤖 **AI / MCP servers** — connecting LLMs to enterprise systems via the Model Context Protocol
+- 📊 **SAP Fiori dashboards** — building enterprise UX with SAPUI5, CDS Views, and OData services
 - ☁️ **AWS infrastructure** — serverless architectures, event-driven microservices, and multi-environment CI/CD pipelines with CDK/Terraform
 - 🔌 **LATAM integrations** — unifying payment gateways and e-commerce channels under clean provider patterns
 
@@ -71,6 +72,10 @@ Lately I've been working at the intersection of **enterprise systems and AI**: b
 **Enterprise & Integrations**
 
 ![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![CDS Views](https://img.shields.io/badge/CDS%20Views-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![OData](https://img.shields.io/badge/OData-E34F26?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQyIDAtOC0zLjU4LTgtOHMzLjU4LTggOC04IDggMy41OCA4IDgtMy41OCA4LTggOHoiLz48L3N2Zz4=&logoColor=white)
+![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAPUI5](https://img.shields.io/badge/SAPUI5-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
@@ -85,8 +90,8 @@ Lately I've been working at the intersection of **enterprise systems and AI**: b
 |------|------------|
 | **System Integrations** | Middleware between CRMs (GoHighLevel, Brevo, Pipedrive), ERPs, and e-commerce channels (Bsale, Multivende, Siigo) |
 | **Payment Gateways** | WebPay, MercadoPago, Flow.cl, PayU — full reconciliation and error-handling flows |
-| **AWS Architecture** | Lambda, ECS, S3, API Gateway, SQS/SNS, CloudFormation/CDK, CI/CD pipelines |
-| **SAP + AI** | MCP server connecting Claude AI to SAP S/4HANA via ABAP REST (PP / MM / QM modules) |
+| **AWS Architecture** | Lambda, ECS, S3, API Gateway, SQS/SNS, CloudFormation/CDK, Connect, CI/CD pipelines |
+| **SAP Development** | Fiori apps & dashboards with SAPUI5, CDS Views, OData APIs, and MCP servers connecting AI to S/4HANA (PP / MM / QM) |
 | **Real Estate Tech** | Launch platforms, property quoters, and AI-powered prospect engagement tools |
 
 <!---
